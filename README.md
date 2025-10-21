@@ -44,13 +44,13 @@ Instale as dependências:
 Bash
 
 npm install
-# ou
+**ou**
 yarn
 Inicie a aplicação React:
 
 Bash
 
 npm start
-# ou
+**ou**
 yarn start
 A calculadora estará disponível no seu navegador (geralmente em http://localhost:3000).
