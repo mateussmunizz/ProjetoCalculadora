@@ -1,4 +1,4 @@
-**➕ Projeto Calculadora com ReactJS e Promises**
+**➕ Projeto Calculadora com ReactJS**
 
 
 📄 Descrição do Projeto
